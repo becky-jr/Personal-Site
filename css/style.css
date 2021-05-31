@@ -1,0 +1,157 @@
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+hr {
+    border: none;
+    width: 7%;
+    border-top: dotted 10px;
+    color: gray;
+}
+
+.first {
+    background-color: #e3fdfd;
+    padding-top: 100px;
+    position: relative;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 70px;
+    right: 20%;
+}
+
+.mountain {
+    padding-top: 40px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    bottom: 35 0px;
+    left: 20%;
+}
+
+.profile {
+    width: 50%;
+    margin: 50px auto 50px auto;
+}
+
+.profile_photo {
+    height: 150px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 75px auto 75px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.programmer_png {
+    width: 30%;
+    float: left;
+    margin-right: 20px;
+}
+
+.tools {
+    width: 25%;
+    float: right;
+    margin-left: 20px;
+}
+
+.contact-me {
+    width: 50%;
+    margin: 50px auto 50px auto;
+}
+
+.contact_message {
+    margin: 30px auto 30px;
+}
+
+.contact_png {
+    width: 20%;
+}
+
+.footer-link {
+    color: #11999E;
+}
+
+
+.btn {
+    border-radius: 7px;
+    padding: 10px 10px;
+    background-color:  #66BFBF;
+    border-color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    font-size: medium;
+}
+
+.btn_link {
+    color: white;
+    text-decoration: none;
+}
+
+.bottom-container {
+    padding: 40px;
+    background-color:  #66BFBF;
+    line-height: 2;
+    color: white;
+}
+
+.footer-link {
+    margin: 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #e3fdfd;
+}
+
+.btn:hover {
+    background-color: #30e3cb;
+}
+
+.anchor_one {
+    color: #11999E;
+    text-decoration: none;
+    position: fixed;
+    top: 2%;
+    right: 2%;
+}
+.anchor_one:hover {
+    color: #66BFBF;
+}
+
+.anchor_two {
+    color: #11999E;
+    text-decoration: none;
+    position: fixed;
+    top: 2%;
+    left: 2%;
+}
+.anchor_two:hover {
+    color: #66BFBF;
+}
